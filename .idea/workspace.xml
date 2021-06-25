@@ -4,7 +4,70 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9baaf4a9-db9a-4a96-ac3c-f46a47bd9761" name="Default Changelist" comment="" />
+    <list default="true" id="9baaf4a9-db9a-4a96-ac3c-f46a47bd9761" name="Default Changelist" comment="Pretty much solved in my first try, about 3 hours including research, I am over the moon!">
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/FITSnBOPS-3230107afbe6972d/output-bin-FITSnBOPS" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/FITSnBOPS-3230107afbe6972d/output-bin-FITSnBOPS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/FITSnBOPS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/FITSnBOPS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/FITSnBOPS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/FITSnBOPS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/FITSnBOPS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/14u1p2gp9yvhg5xb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/19i2cy2jeuw81vut.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1b5pjo18ze4y04h6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1benj4q8xp6n5zkw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1inzrxtczwfnclbi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1lfts0v9l7r9aeue.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1rif4mivwctao84h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1xthzwyq9xvujhcr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/1yjn0jg70rb5uqo7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/21p7hbyy28ouhgs8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2534pkump71024az.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/26c2ay7umxdq7ndv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/28234k9sld8zef8j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2e5irej3pynq3cb7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2ivimgo1ypixgigb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2kne0clkpz6hu3y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2ojjxgz46hcodqw0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2sfvhiw4h9civuat.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/2y0fw6vik1csu9ks.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/30uo6nukujg1aots.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/399xq6tkcl11tc2j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3a54e77jc0stmqb0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3ddqy3h0lzh36j4z.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3g28thft8y5qn5mq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3htcck5qfuz83bh1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3k2t8g6lb5ru9gd0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3n5ar72gxc6oy2tz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3odivfgsinjwtsas.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3ogtk49ujgvb09a1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3qgdimngg4g4goa8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3rwkjclg89vp8ptu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/3ujegtddorevjwmd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4247q11gr720uqlk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/48e5ti14mmj1ksse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4cfsz3x2mr7tgoge.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4e0vmjhviw4ihzhk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4m4lveik4monsvfx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4m9rrp4sj3lc9r9a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4ova914tord0a4zp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4qeu8my6w5tbaiva.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4sws2uwdypfm88ac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4uniq3cuooqvlnn8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4uxobrd79xq5s9q5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/4yqnx1fgvswu04h6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/5frj9igek7iwoi97.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/ahjlfjcs47oujvt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/b2a07u88m6wo7h4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/ngcmx2rwxa0x2ui.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/p1zohhpug5gxlmb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/tgh66oes5yr17hz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/uo1utgmi1i80wpv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e-24t73gky2kc0k/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/FITSnBOPS-xh8nhjcwqvfg/s-fzvpimudxo-soju2e.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +84,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +112,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
@@ -95,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624623471137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pretty much solved in my first try, about 3 hours including research, I am over the moon!">
+      <created>1624624537246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624624537246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +174,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="71" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="70" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

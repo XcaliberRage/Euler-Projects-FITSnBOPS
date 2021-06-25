@@ -3,6 +3,8 @@
 // Find all BAD optimum polynomials (BOP)
 // For each of the First Incorrect terms (FIT), sum them
 
+use std::time::Instant;
+
 struct UVAL {
     u: i64
 }
@@ -37,6 +39,8 @@ impl<T: std::cmp::PartialEq> TheSame for Vec<T> {
 
 fn main() {
 
+    let now = Instant::now();
+
     // So long as OP(k,k+1) returns a FIT
     // Increment k and try again
 
@@ -65,6 +69,7 @@ fn main() {
     println!("All FITs: {:?}", fits);
     let sum: i64 = fits.iter().sum();
     println!("The sum of the FITS is {}", sum);
+    println!("Solved in {}ms", now.elapsed().as_millis())
 
 }
 
