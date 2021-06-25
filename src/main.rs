@@ -101,6 +101,8 @@ fn get_op(seq: Vec<i64>) -> i64 {
 }
 
 /*
+    I was looking here investigating what I might need to know for handling this, but polynomials are actually computationally trivial
+    https://brownmath.com/alge/polysol.htm#StandardForm
     1.  If solving an equation, put it in standard form with 0 on one side and simplify.
     2.  Know how many roots to expect.
     3.  If you’re down to a linear or quadratic equation (degree 1 or 2), solve by inspection or the quadratic formula.
